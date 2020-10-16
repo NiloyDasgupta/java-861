@@ -3,6 +3,9 @@ package com.lti.model;
 public class Department {
 	int departmentId;
 	String departmentName;
+	String departmentLoc;
+	public int getDepartmentLoc() {
+		return departmentLoc;
 	public int getDepartmentId() {
 		return departmentId;
 	}
