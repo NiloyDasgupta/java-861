@@ -8,7 +8,7 @@ public class Department {
 		return departmentLoc;
 	public int getDepartmentId() {
 		return departmentId;
-	}
+	} 
 	public void setDepartmentId(int departmentId) {
 		this.departmentId = departmentId;
 	}
